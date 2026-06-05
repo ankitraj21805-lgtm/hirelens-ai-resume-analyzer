@@ -49,3 +49,5 @@ Built HireLens AI using HTML, CSS, and JavaScript to solve resume-job mismatch b
 ## Disclaimer
 
 HireLens AI provides an estimated ATS-style score based on keyword matching, resume structure, and role relevance. It does not guarantee job selection or actual ATS ranking.
+
+![image alt](https://github.com/ankitraj21805-lgtm/hirelens-ai-resume-analyzer/blob/main/analyzer.png?raw=true)
